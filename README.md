@@ -1,1 +1,1 @@
-# my-own-infinite-runner-game-2
+# INFINITE_RUNNER_GAME
